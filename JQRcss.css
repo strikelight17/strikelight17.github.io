@@ -188,6 +188,7 @@ table, tr, td {
 	font-size: 13px;
 	font-family: 'Roboto', sans-serif;
 	letter-spacing: 2px;
+	padding-right: 5px;
 }
 
 .footer {

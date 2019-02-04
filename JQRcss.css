@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins');
+@import url('https://fonts.googleapis.com/css?family=Roboto');
 
 body {
 	margin: 0;
@@ -66,3 +67,134 @@ body {
 	text-align: center;
 	margin-bottom: 5%;
 }
+
+table, tr, td {
+	background-color: #403B3B;
+	color: white;
+	margin-bottom: 5%;
+	margin-top: -3%;
+	border: 1px solid black;
+	border-collapse: collapse;
+	width: 75%;
+	padding-bottom: 20px;
+}
+
+#play {
+	width: 2%;
+	height: auto;
+}
+
+#play1 {
+	width: 2%;
+	height: auto;
+}
+
+#play2 {
+	width: 2%;
+	height: auto;
+}
+
+#play3 {
+	width: 2%;
+	height: auto;
+}
+
+#play4 {
+	width: 2%;
+	height: auto;
+}
+
+#play5 {
+	width: 2%;
+	height: auto;
+}
+
+#play6 {
+	width: 2%;
+	height: auto;
+}
+
+#play7 {
+	width: 2%;
+	height: auto;
+}
+
+#play8 {
+	width: 2%;
+	height: auto;
+}
+
+#play9 {
+	width: 2%;
+	height: auto;
+}
+
+#play10 {
+	width: 2%;
+	height: auto;
+}
+
+#play11 {
+	width: 2%;
+	height: auto;
+}
+
+#play12 {
+	width: 2%;
+	height: auto;
+}
+
+#play13 {
+	width: 2%;
+	height: auto;
+}
+
+#play14 {
+	width: 2%;
+	height: auto;
+}
+
+#play15 {
+	width: 2%;
+	height: auto;
+}
+
+#play16 {
+	width: 2%;
+	height: auto;
+}
+
+#play17 {
+	width: 2%;
+	height: auto;
+}
+
+#play18 {
+	width: 2%;
+	height: auto;
+}
+
+#play19 {
+	width: 2%;
+	height: auto;
+}
+
+.name {
+	color: gray;
+}
+
+.time {
+	float: right;
+	font-size: 13px;
+	font-family: 'Roboto', sans-serif;
+	letter-spacing: 2px;
+}
+
+.footer {
+	color: gray;
+	font-size: 14px;
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	letter-spacing: 0px;
+}
+	
